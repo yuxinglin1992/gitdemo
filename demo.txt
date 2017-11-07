@@ -1,2 +1,2 @@
-git ia a version control system
+git ia a tesr control system
 git is free software
