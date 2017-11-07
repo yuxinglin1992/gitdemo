@@ -1,2 +1,2 @@
-git ia a tesr control system
-git is free software
+git ia a test control system
+git is no free software
