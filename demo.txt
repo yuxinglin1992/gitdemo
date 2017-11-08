@@ -1,2 +1,3 @@
 git ia a test control system
 git is no free software
+git add
